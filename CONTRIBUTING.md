@@ -16,7 +16,7 @@ corepack enable        # 启用 corepack，pnpm 自动按锁定版本就绪
 ## 克隆与安装
 
 ```bash
-git clone <OWNER>/starter-react.git
+git clone huangzida/starter-react.git
 cd starter-react
 corepack enable
 pnpm install
